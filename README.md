@@ -1,0 +1,2 @@
+# Someting
+ my petty project
